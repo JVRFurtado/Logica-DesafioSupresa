@@ -35,16 +35,17 @@ Hurmple Cadastrado com sucesso.
 
 ## 📁 Arquivo
 
-  index.js — Contém a definição da classe centroPokemon, a criação dos objetos e a execução dos métodos.
+  * index.js — Contém a definição da classe centroPokemon, a criação dos objetos e a execução dos métodos.
 
 ## 🛠️ Tecnologias utilizadas
 
-  JavaScript (Node.js)
-
-  Editor de código como VSCode
+  * JavaScript (Node.js)
+  * VSCode (Editor de Código)
 
 ## 👨‍🎓 Autor
 
 Desenvolvido por mim como parte dos desafios propostos na formação da DIO.
+
+---
 
 🎮 Projeto simples, mas eficaz, para praticar conceitos de orientação a objetos com um tema divertido do universo Pokémon!
