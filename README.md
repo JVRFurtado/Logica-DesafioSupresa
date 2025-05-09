@@ -23,9 +23,10 @@ A classe principal `centroPokemon` representa um Pokémon registrado no sistema 
 
 ## 📦 Exemplo de execução
 
-```bash
+```
 O pokémon Poochyena de level 2, do sexo masculino, está com 13 de 13 pontos vida.
 Poochyena Cadastrado com sucesso.
+...
 O pokémon Zigzagoon de level 2, do sexo feminino, está com 13 de 13 pontos vida.
 Zigzagoon Cadastrado com sucesso.
 ...
